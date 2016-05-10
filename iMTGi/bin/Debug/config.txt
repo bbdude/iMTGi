@@ -1,0 +1,2 @@
+loadedcards true
+loadedimages false
